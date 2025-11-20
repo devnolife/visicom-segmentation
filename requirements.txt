@@ -12,3 +12,4 @@ albumentations
 scikit-learn
 tqdm
 notebook
+timm

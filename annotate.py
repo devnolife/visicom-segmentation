@@ -24,7 +24,7 @@ def main():
     st.sidebar.header("⚙️ Pengaturan")
     
     # Directories
-    image_dir = st.sidebar.text_input("Image Directory", "dataset")
+    image_dir = st.sidebar.text_input("Image Directory", "dataset/images")
     mask_dir = st.sidebar.text_input("Mask Output Directory", "dataset/masks")
     
     # Create mask directory if not exists
