@@ -1,4 +1,4 @@
-# Flood Segmentation System
+# Segmentation System
 
 Sistem deteksi dan segmentasi area banjir menggunakan Deep Learning dengan arsitektur U-Net.
 
@@ -40,7 +40,10 @@ banjir/
 ### 1. Clone repository atau setup environment
 
 ```powershell
-cd "d:\S2\computer-vision\banjir"
+git clone https://github.com/devnolife/visicom-segmentation.git
+cd visicom-segmentation
+python -m venv venv
+.\venv\Scripts\activate
 ```
 
 ### 2. Install dependencies
@@ -219,4 +222,4 @@ Untuk pertanyaan atau masalah, silakan buat issue di repository.
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding! by devnolife🚀**
