@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+transformers
+pillow
+numpy
+matplotlib
+opencv-python-headless
+streamlit-drawable-canvas
+segmentation-models-pytorch
+albumentations
+scikit-learn
+tqdm
+notebook
